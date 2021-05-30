@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6c521fe1.chunk.css",
+    "main.js": "/portfolio/static/js/main.2141db08.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2141db08.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.6d62f4be.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.6d62f4be.js.map",
+    "static/js/2.434ce8c6.chunk.js": "/portfolio/static/js/2.434ce8c6.chunk.js",
+    "static/js/2.434ce8c6.chunk.js.map": "/portfolio/static/js/2.434ce8c6.chunk.js.map",
+    "static/js/3.c06e9de5.chunk.js": "/portfolio/static/js/3.c06e9de5.chunk.js",
+    "static/js/3.c06e9de5.chunk.js.map": "/portfolio/static/js/3.c06e9de5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.6c521fe1.chunk.css.map": "/portfolio/static/css/main.6c521fe1.chunk.css.map",
+    "static/js/2.434ce8c6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.434ce8c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/RobotoSlab-Light.0a0b244f.ttf",
+    "static/media/gatimeow.e3929dd5.png": "/portfolio/static/media/gatimeow.e3929dd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d62f4be.js",
+    "static/js/2.434ce8c6.chunk.js",
+    "static/css/main.6c521fe1.chunk.css",
+    "static/js/main.2141db08.chunk.js"
+  ]
+}
